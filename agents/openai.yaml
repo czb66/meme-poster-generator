@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meme Poster Generator"
+  short_description: "Generate Chinese hot-topic typographic posters"
+  default_prompt: "Use $meme-poster-generator to find Chinese trending memes and generate reference-style typographic posters into an out folder."
